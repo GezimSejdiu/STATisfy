@@ -1,4 +1,4 @@
-# STATsify:A REST Interface for SANSA RDF Dataset Statistics
+# STATisfy:A REST Interface for SANSA RDF Dataset Statistics
 
 Interactive REST API for running [SANSA DistLODStats](https://github.com/SANSA-Stack/SANSA-RDF/tree/develop/sansa-rdf-spark/src/main/scala/net/sansa_stack/rdf/spark/stats) using [Apache Livy](http://livy.incubator.apache.org./).
 Livy is an open source REST interface for interacting with [Apache Spark](http://spark.apache.org/) from anywhere. It supports executing snippets of code or programs in a Spark context that runs locally or in [Apache Hadoop YARN](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html).
